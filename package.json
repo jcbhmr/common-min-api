@@ -1,7 +1,7 @@
 {
   "name": "@jcbhmr/common-min-api",
   "version": "1.0.0",
-  "description": "🎁 An bundle package that polyfills the Minimum Common Web Platform API",
+  "description": "🎁 A bundled polyfill for the Minimum Common Web Platform API",
   "keywords": [
     "polyfill",
     "fetch-api",

@@ -2,7 +2,7 @@
 
 # [Minimum Common Web Platform API] polyfill
 
-🎁 An bundle package that polyfills the [Minimum Common Web Platform API]
+🎁 A bundled polyfill for the [Minimum Common Web Platform API]
 
 <div align="center">
 
