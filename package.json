@@ -1,0 +1,28 @@
+{
+  "name": "@jcbhmr/common-min-api",
+  "version": "1.0.0",
+  "description": "🎁 An bundle package that polyfills the Minimum Common Web Platform API",
+  "keywords": [
+    "polyfill",
+    "fetch-api",
+    "web-platform",
+    "isomorphic-javascript",
+    "urlpattern",
+    "wintercg"
+  ],
+  "homepage": "https://github.com/jcbhmr/common-min-api#readme",
+  "bugs": "https://github.com/jcbhmr/common-min-api/issues",
+  "repository": "github:jcbhmr/common-min-api",
+  "license": "MIT",
+  "author": "Jacob Hummer <jcbhmr@outlook.com> (https://jcbhmr.me/)",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "start": "node --test --watch",
+    "test": "node --test"
+  }
+}
