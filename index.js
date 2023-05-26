@@ -1,0 +1,16 @@
+import "@jcbhmr/webidl-domexception";
+import "@jcbhmr/html-timers";
+import "@jcbhmr/html-microtask-queuing";
+import "@jcbhmr/html-structured-cloning";
+import "@jcbhmr/html-btoa";
+import "@jcbhmr/console";
+import "@jcbhmr/html-system-state";
+import "@jcbhmr/encoding";
+import "@jcbhmr/streams";
+import "@jcbhmr/fileapi";
+import "@jcbhmr/url";
+import "@jcbhmr/dom-aborting-ongoing-activities";
+import "@jcbhmr/fetch";
+import "@jcbhmr/urlpattern";
+import "@jcbhmr/webcrypto";
+import "@jcbhmr/compression";
