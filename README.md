@@ -1,6 +1,6 @@
 ![🚧 Under construction 👷‍♂️](https://i.imgur.com/LEP2R3N.png)
 
-# [Minimum Common Web Platform API] polyfill
+# Minimum Common Web Platform API polyfill
 
 🎁 A bundled polyfill for the [Minimum Common Web Platform API]
 
